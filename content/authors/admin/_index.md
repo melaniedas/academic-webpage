@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Melanie Das, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Scientist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Gladstone Institutes
+  url: https://gladstone.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neurodegenerative diseases and neuroinflammation.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroscience
+- Neurodegenerative Disease
+- Neuroinflammation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Biomedical Sciences
+    institution: Cedars-Sinai
+    year: 2014
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: University of California, San Diego
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
